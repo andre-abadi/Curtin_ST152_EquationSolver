@@ -1,0 +1,5 @@
+This is a Java project for the Software Technology 152 course at Curtin University, Australia.
+
+The Equation solver uses a home-brewed linked-list which is used as queues and stacks throughought the program.
+
+The program uses the concept of postfix notation to solve an algebraic equation.
